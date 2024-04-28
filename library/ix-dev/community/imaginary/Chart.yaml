@@ -1,0 +1,27 @@
+name: imaginary
+description: Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing.
+annotations:
+  title: Imaginary
+type: application
+version: 1.0.2
+apiVersion: v2
+appVersion: "2024-07-01"
+kubeVersion: '>=1.16.0-0'
+maintainers:
+  - name: truenas
+    url: https://www.truenas.com/
+    email: dev@ixsystems.com
+dependencies:
+  - name: common
+    repository: file://../../../common
+    version: 1.2.9
+home: https://github.com/h2non/imaginary
+icon: https://localhost/no-icon
+sources:
+  - https://github.com/h2non/imaginary
+  - https://hub.docker.com/r/nextcloud/aio-imaginary
+  - https://github.com/truenas/charts/tree/master/library/ix-dev/community/imaginary
+keywords:
+  - nextcloud
+  - imaginary
+  - h2non
