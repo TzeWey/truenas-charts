@@ -3,8 +3,8 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/firefly-iii/1.1.27",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/community/firefly-iii/1.1.27",
+        "last_update": "2024-06-18 08:33:41",
         "required_features": [
             "normalize/acl",
             "normalize/ixVolume"

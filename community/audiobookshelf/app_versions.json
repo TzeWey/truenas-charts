@@ -3,8 +3,8 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/audiobookshelf/1.0.5",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/community/audiobookshelf/1.0.5",
+        "last_update": "2024-05-31 17:12:15",
         "required_features": [
             "normalize/acl",
             "definitions/timezone",

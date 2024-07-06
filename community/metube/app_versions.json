@@ -3,8 +3,8 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/metube/1.2.21",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/community/metube/1.2.21",
+        "last_update": "2024-07-04 12:47:56",
         "required_features": [
             "normalize/acl",
             "normalize/ixVolume"

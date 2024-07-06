@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/gitea/1.1.22",
+        "location": "/__w/truenas-charts/truenas-charts/community/gitea/1.1.22",
         "last_update": "2024-07-05 07:46:55",
         "required_features": [
             "normalize/acl",
-            "normalize/ixVolume",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/ixVolume"
         ],
         "human_version": "1.22.1_1.1.22",
         "version": "1.1.22",
