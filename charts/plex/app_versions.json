@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/plex/2.0.8",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/plex/2.0.8",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
-            "normalize/acl",
             "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "1.40.3.8555_2.0.8",
@@ -2226,8 +2226,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/plex/1.7.60",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/plex/1.7.60",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "definitions/gpuConfiguration",
             "definitions/timezone",

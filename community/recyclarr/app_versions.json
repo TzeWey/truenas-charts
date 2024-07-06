@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/recyclarr/1.2.4",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/community/recyclarr/1.2.4",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
-            "normalize/acl",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "7.0.0_1.2.4",

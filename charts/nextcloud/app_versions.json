@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/nextcloud/2.0.10",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/nextcloud/2.0.10",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
+            "definitions/nodeIP",
             "normalize/acl",
-            "definitions/certificate",
             "normalize/ixVolume",
-            "definitions/nodeIP"
+            "definitions/certificate"
         ],
         "human_version": "29.0.3_2.0.10",
         "version": "2.0.10",
@@ -2286,12 +2286,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/nextcloud/1.6.61",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/nextcloud/1.6.61",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "normalize/ixVolume",
-            "definitions/nodeIP",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/nodeIP"
         ],
         "human_version": "29.0.0_1.6.61",
         "version": "1.6.61",
@@ -3110,12 +3110,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/nextcloud/1.6.59",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/nextcloud/1.6.59",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "normalize/ixVolume",
-            "definitions/nodeIP",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/nodeIP"
         ],
         "human_version": "28.0.4_1.6.59",
         "version": "1.6.59",
@@ -3934,12 +3934,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/nextcloud/1.6.53",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/nextcloud/1.6.53",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "normalize/ixVolume",
-            "definitions/nodeIP",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/nodeIP"
         ],
         "human_version": "27.1.4_1.6.53",
         "version": "1.6.53",
@@ -4758,12 +4758,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/nextcloud/1.6.29",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/nextcloud/1.6.29",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "normalize/ixVolume",
-            "definitions/nodeIP",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/nodeIP"
         ],
         "human_version": "26.0.2_1.6.29",
         "version": "1.6.29",

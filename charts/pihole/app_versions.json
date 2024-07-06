@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/pihole/2.0.12",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/pihole/2.0.12",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
-            "normalize/acl",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "2024.06.0_2.0.12",
@@ -1499,8 +1499,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/pihole/1.0.25",
-        "last_update": "2024-07-05 07:45:39",
+        "location": "/__w/truenas-charts/truenas-charts/charts/pihole/1.0.25",
+        "last_update": "2024-07-06 16:31:27",
         "required_features": [
             "definitions/timezone",
             "normalize/ixVolume"
