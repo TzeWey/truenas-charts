@@ -1,0 +1,10 @@
+runAsContext:
+  - userName: imaginary
+    groupName: imaginary
+    gid: 568
+    uid: 568
+    description: Imaginary can run as any non-root user.
+capabilities:
+  - name: SYS_NICE
+    description: Required by imaginary to generate HEIC previews.
+hostMounts: []

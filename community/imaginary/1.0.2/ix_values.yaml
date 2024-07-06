@@ -1,0 +1,23 @@
+image:
+  repository: nextcloud/aio-imaginary
+  pullPolicy: IfNotPresent
+  tag: 20240701_074701-latest
+
+resources:
+  limits:
+    cpu: 4000m
+    memory: 8Gi
+
+imaginaryConfig:
+  additionalEnvs: []
+
+imaginaryID:
+  user: 568
+  group: 568
+
+imaginaryNetwork:
+  serverPort: 9000
+  hostNetwork: false
+
+imaginaryStorage:
+  additionalStorages: []
